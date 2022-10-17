@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
   margin: 0;
 }
 body {
@@ -11,7 +12,8 @@ body {
   width: 1200px;
   display: flex;
   margin: 0 auto;
-  background-color:aquamarine;
+  background-color: aquamarine;
+  color:rgb(5, 108, 108)
 }
 .main {
   display: flex;
@@ -21,18 +23,26 @@ body {
 .menu {
   width: 15%;
   background-color: aqua;
-  padding: 10px 20px 0px;
+  color:rgb(5, 108, 108)
+  
 }
 .header {
-  background-color: rgb(5,108,108);
+  background-color: rgb(5, 108, 108);
   min-height: 150px;
 }
-.content{
+.content {
   background-color: white;
   min-height: 300px;
   padding: 20px;
+
 }
+.content img{
+  align-content: center;
+  justify-content: center;
+  position: relative;
+}
+
 .footer {
-  background-color: rgb(99,56,240);
+  background-color: rgb(74, 109, 109);
   min-height: 150px;
 }
