@@ -8,6 +8,18 @@ body {
   justify-content: center;
 }
 
+.itens {
+  list-style-type: none;
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+}
+
+.itens > li {
+  padding:10px;
+
+}
+
 .wrapper {
   width: 1200px;
   display: flex;
