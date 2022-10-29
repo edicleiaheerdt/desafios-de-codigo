@@ -58,6 +58,14 @@ body {
   align-items: center;
 }
 
+#form {
+  padding-top: 10px;
+  padding-left: 10px;
+  position:absolute;
+  left:19px;
+  margin-right:5px;
+}
+
 .footer {
   background-color: #4a6d6d;
   min-height: 50px;
