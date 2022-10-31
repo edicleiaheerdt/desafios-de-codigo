@@ -1,4 +1,8 @@
 Projeto site - conforme solicitado no desafio de projeto da DIO.
+
+Deplay: https://edicleia.heerdt.com.br/site/
+
+Ainda vou entrar na parte de CSS então o formulario não esta estilizado.
 Entendo o Desafio
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
