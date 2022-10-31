@@ -58,12 +58,13 @@ body {
   align-items: center;
 }
 
-#form {
+.form {
   padding-top: 10px;
   padding-left: 10px;
   position:absolute;
   left:19px;
   margin-right:5px;
+  flex-direction: column;
 }
 
 .footer {
